@@ -1,0 +1,6 @@
+{
+  "name": "CDC Isolation Campaign Dashboard",
+  "description": "A brutalist, scientific dashboard to enforce CDC isolation protocols for a mutating anomaly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
